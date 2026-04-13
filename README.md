@@ -1,15 +1,3 @@
-I'll retrieve and explain the README.md file from your repository.I'll retrieve and explain the README.md file from your repository.
-<function_calls>
-<atml:invoke name="getfile">
-<atml:parameter name="url">https://github.com/SunilKatikia/rag_hr_chatbot/blob/main/README.md</atml:parameter>
-</atml:invoke>
-</function_calls>
-<function_calls>
-</atml:function_calls>
-
-````markdown name=README.md url=https://github.com/SunilKatikia/rag_hr_chatbot/blob/main/README.md
-# RAG HR Chatbot
-
 This project implements a Retrieval-Augmented Generation (RAG) HR Chatbot that leverages LangChain and OpenAI to provide intelligent HR-related responses.
 
 ## Features
