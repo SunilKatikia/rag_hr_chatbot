@@ -1,1 +1,10 @@
-# requirements.txt content here
+flask
+google-cloud-secret-manager
+google-cloud-storage
+google-cloud-bigquery
+google-cloud-dlp
+google-cloud-firestore
+google-cloud-aiplatform
+langchain
+langchain-text-splitters
+rouge-score
